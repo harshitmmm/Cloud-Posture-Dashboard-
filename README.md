@@ -26,14 +26,18 @@ Cloud adoption across multiple accounts has
 significantly increased the risk of security
 misconfigurations.
 
-LEFT SIDE                        RIGHT SIDE
 
-Common Issues                    Challenges
+Common Issues                 
+• Public storage buckets        
+• Excess IAM permissions         
+• Open network ports             
+• Weak security policies         
 
-• Public storage buckets         • Alerts across multiple tools
-• Excess IAM permissions         • Difficult prioritization
-• Open network ports             • Lack of centralized visibility
-• Weak security policies         • Slow issue resolution
+Challenges
+• Alerts across multiple tools
+• Difficult prioritization
+• Lack of centralized visibility
+• Slow issue resolution
 
 ------------------------------------------------------------------
 
