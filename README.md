@@ -1,4 +1,4 @@
-# Cloud-Posture-Dashboard-
+Cloud-Posture-Dashboard 
 A Cloud Posture Dashboard can help by providing a centralized, easy-to-understand interface where security engineers can quickly identify, filter, and resolve cloud misconfigurations across accounts.
 
 
